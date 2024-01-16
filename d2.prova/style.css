@@ -1,0 +1,17 @@
+body {
+  width: 100%;
+}
+
+#header {
+  display: block;
+  text-align: center;
+}
+
+#main {
+  text-align: center;
+}
+
+#table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
