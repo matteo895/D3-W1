@@ -1,17 +1,27 @@
 body {
   width: 100%;
-}
-
-#header {
-  display: block;
   text-align: center;
+  background-color: salmon;
 }
 
-#main {
-  text-align: center;
+#logo {
+  transform: scale(1.5);
+  padding: 3em;
 }
 
-#table {
+.table {
   margin: 0 auto;
   border-collapse: collapse;
+}
+.table-due {
+  border: 1px solid black;
+  padding: 1em;
+}
+
+#list {
+  display: inline-block;
+}
+
+#final {
+  margin-top: 1em;
 }
